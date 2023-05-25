@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Singh
 - 👀 I’m interested in Artificial Intelligence and Web Development
-- 🌱 I’m currently learning Cloud (Azure)
+- 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Still Thinking
 - 📫 How to reach me via LinkedIn or Mail gauravkainbox@outlook.in
 
